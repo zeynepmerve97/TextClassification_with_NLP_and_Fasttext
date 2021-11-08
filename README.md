@@ -1,6 +1,6 @@
 # TextClassification_with_NLP_and_Fasttext
 
-In this repo, text classification was performed in two different ways on the real-world dataset presented to the competitors in the Doğuş datathon competition, and predictions were made on the test dataset.
+In this repo, text classification was performed in two different ways on the real-world dataset presented to the competitors in the Doğus Datathon competition, and predictions were made on the test dataset.
 
 ## Getting Started
 
