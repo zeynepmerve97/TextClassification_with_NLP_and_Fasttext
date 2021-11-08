@@ -18,7 +18,7 @@ In this project, text classification was done in two different ways. In one meth
 
 ## ModelwithNLP:
 - Data: It consists of three different data sets:train_n11.csv, test_n11.csv and sample_submission_n11.csv.
-Columns in the training and test dataset:
+Columns in the train dataset and test dataset:
  - - ID: Product ID number
 - - TITLE: product title
 - - DESCRIPTION: Product description in HTML format
