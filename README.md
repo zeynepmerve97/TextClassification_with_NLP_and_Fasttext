@@ -32,7 +32,7 @@ Columns in submission dataset:
 
 ## ModelwithFastext
 - Data: Same data
-- Type: Fastextİ(ready library)
+- Type: Fastext(ready library)
 
 
 ## Authors
